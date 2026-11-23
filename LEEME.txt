@@ -1,9 +1,12 @@
 FULL PARTY — Sitio web actualizado
 
-Cambios realizados:
-- El título principal ahora dice: ¿Ready to Party?
-- Se incorporó el logo del vaso en la sección principal.
-- Se conserva el diseño oscuro con acentos morados y las secciones existentes.
+Cambios de esta versión:
+- Diseño visual más minimalista, con menos efectos y mayor limpieza visual.
+- Se mantiene el título principal: ¿Ready to Party?
+- Se conserva el texto: Cada evento es una experiencia, cada momento una historia.
+- Se eliminó el botón secundario “Conoce FULL PARTY”.
+- Se eliminaron los textos informativos solicitados en Próximos eventos y Galería.
+- La Galería conserva únicamente el apartado FULL PARTY.
 
 Contenido:
 - index.html: página principal.
