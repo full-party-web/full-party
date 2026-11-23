@@ -1,4 +1,9 @@
-FULL PARTY — Sitio web
+FULL PARTY — Sitio web actualizado
+
+Cambios realizados:
+- El título principal ahora dice: ¿Ready to Party?
+- Se incorporó el logo del vaso en la sección principal.
+- Se conserva el diseño oscuro con acentos morados y las secciones existentes.
 
 Contenido:
 - index.html: página principal.
@@ -8,11 +13,7 @@ Canales oficiales configurados:
 - Instagram: https://www.instagram.com/fullp.ec/
 - WhatsApp: https://wa.me/593968849194
 
-Publicación gratuita con GitHub Pages:
-1. Crea una cuenta en https://github.com/
-2. Crea un repositorio público llamado full-party-web.
-3. Sube index.html y la carpeta assets completa (con sus dos imágenes).
-4. En Settings > Pages, selecciona Deploy from a branch, rama main y carpeta /(root).
-5. Guarda. GitHub mostrará la dirección pública de tu web.
-
-Nota: los eventos y enlaces de boletería se deben actualizar cuando estén confirmados.
+Publicación con GitHub Pages:
+1. Sube index.html y la carpeta assets completa al repositorio.
+2. En Settings > Pages, selecciona Deploy from a branch, rama main y carpeta /(root).
+3. Guarda y espera a que GitHub Pages publique los cambios.
